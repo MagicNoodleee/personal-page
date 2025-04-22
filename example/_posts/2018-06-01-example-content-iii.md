@@ -68,6 +68,9 @@ $$
 \end{aligned}
 $$
 
+$$
+\ket{psi}
+$$
 
 ## Message boxes
 **NOTE**: You can add a message box.
